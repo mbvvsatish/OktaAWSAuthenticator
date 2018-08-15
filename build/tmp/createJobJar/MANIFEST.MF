@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Implementation-Title: Job 
+Implementation-Version: 1.0
+Main-Class: com.aws.sts.outh.AWSFrame
+Class-Path: lib/aws-java-sdk-iam-1.11.372.jar lib/aws-java-sdk-sts-1.1
+ 1.372.jar lib/aws-java-sdk-ec2-1.11.372.jar lib/okta-sdk-0.0.4.jar li
+ b/jsoup-1.11.3.jar lib/opensaml-core-3.3.0.jar lib/opensaml-saml-api-
+ 3.3.0.jar lib/opensaml-saml-impl-3.3.0.jar lib/opensaml-xmlsec-impl-3
+ .3.0.jar lib/json-20180130.jar lib/log4j-core-2.11.0.jar lib/log4j-ap
+ i-2.11.0.jar lib/ini4j-0.5.4.jar lib/aws-java-sdk-core-1.11.372.jar l
+ ib/jmespath-java-1.11.372.jar lib/jackson-datatype-joda-2.5.0.jar lib
+ /metrics-core-3.1.2.jar lib/java-support-7.3.0.jar lib/commons-codec-
+ 1.10.jar lib/opensaml-xmlsec-api-3.3.0.jar lib/opensaml-soap-api-3.3.
+ 0.jar lib/opensaml-messaging-api-3.3.0.jar lib/opensaml-profile-api-3
+ .3.0.jar lib/opensaml-storage-api-3.3.0.jar lib/opensaml-security-imp
+ l-3.3.0.jar lib/opensaml-soap-impl-3.3.0.jar lib/velocity-1.7.jar lib
+ /ion-java-1.0.2.jar lib/jackson-dataformat-cbor-2.6.7.jar lib/jsr305-
+ 3.0.1.jar lib/opensaml-security-api-3.3.0.jar lib/commons-lang-2.4.ja
+ r lib/xmlsec-2.0.5.jar lib/cryptacular-1.1.1.jar lib/bcprov-jdk15on-1
+ .54.jar lib/woodstox-core-asl-4.4.1.jar lib/stax-api-1.0-2.jar lib/st
+ ax2-api-3.1.4.jar lib/joda-time-2.9.jar lib/slf4j-api-1.7.12.jar lib/
+ httpclient-4.5.5.jar lib/httpcore-4.4.9.jar lib/jackson-databind-2.6.
+ 7.1.jar lib/guava-19.0.jar lib/commons-collections-3.2.1.jar lib/jack
+ son-core-2.6.7.jar lib/commons-logging-1.2.jar lib/jackson-annotation
+ s-2.6.0.jar
+
